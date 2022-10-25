@@ -1,0 +1,13 @@
+.table{
+    background-color: rgb(253, 253, 253);
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9cm;
+    min-width: 900px;
+}
+
+.bnr{
+    background-color: rgb(44, 151, 190);
+    height: 2cm;
+    font-size: 1.5cm;
+}
